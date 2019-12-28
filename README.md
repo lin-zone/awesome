@@ -1,8 +1,10 @@
 # Awesome
 
-## Scrapy
+## Scrapy Distributed
 
 * [crawlab](https://github.com/crawlab-team/crawlab) - 基于Golang的分布式爬虫管理平台
+* [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js
+* [scrapydweb](https://github.com/my8100/scrapydweb) - ScrapydWeb: Web app for Scrapyd cluster management
 
 ## Scrapy Middleware
 
@@ -14,6 +16,6 @@
 * [scrapy-crawlera](https://github.com/scrapy-plugins/scrapy-crawlera) - Crawlera middleware for Scrapy
 * [crawlera](https://scrapinghub.com/crawlera) - The World's Smartest Proxy Network
 * [scrapy-deltafetch](https://github.com/scrapy-plugins/scrapy-deltafetch) - Scrapy spider middleware to ignore requests to pages containing items seen in previous crawls
-* [scrapy-random-useragent(https://github.com/cnu/scrapy-random-useragent) - Scrapy Middleware to set a random User-Agent for every Request.
+* [scrapy-random-useragent](https://github.com/cnu/scrapy-random-useragent) - Scrapy Middleware to set a random User-Agent for every Request.
 * [scrapy-crawl-once](https://github.com/TeamHG-Memex/scrapy-crawl-once) - Scrapy middleware which allows to crawl only new content
 * [scrapy-magicfields](https://github.com/scrapy-plugins/scrapy-magicfields) - Scrapy middleware to add extra fields to items, like timestamp, response fields, spider attributes etc.
