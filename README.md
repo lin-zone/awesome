@@ -19,3 +19,24 @@
 * [scrapy-random-useragent](https://github.com/cnu/scrapy-random-useragent) - Scrapy Middleware to set a random User-Agent for every Request.
 * [scrapy-crawl-once](https://github.com/TeamHG-Memex/scrapy-crawl-once) - Scrapy middleware which allows to crawl only new content
 * [scrapy-magicfields](https://github.com/scrapy-plugins/scrapy-magicfields) - Scrapy middleware to add extra fields to items, like timestamp, response fields, spider attributes etc.
+
+## command line
+
+* [cleo](https://github.com/sdispater/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
+
+## HTML parser
+
+* [scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library
+
+## Crawler
+
+* [Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - Python 抖音机器人，论如何在抖音上找到漂亮小姐姐
+* [SinaSpider](https://github.com/LiuXingMing/SinaSpider) - 新浪微博爬虫（Scrapy、Redis）
+
+## Tools
+
+* [qrcode](https://github.com/sylnsfar/qrcode) - Python 艺术二维码生成器
+
+## utils
+
+* [queuelib](https://github.com/scrapy/queuelib) - Collection of persistent (disk-based) queues
